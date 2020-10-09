@@ -1,2 +1,2 @@
 # Android-WelcomeActivity
-A simple start animation in Android
+It goes something like this
